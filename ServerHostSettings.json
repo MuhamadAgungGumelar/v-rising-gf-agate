@@ -1,0 +1,7 @@
+{
+  "Name": "GF Server",
+  "MaxConnectedUsers": 20,
+  "Password": "levelup",
+  "API": {},
+  "Rcon": {}
+}

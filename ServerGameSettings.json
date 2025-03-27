@@ -1,0 +1,57 @@
+{
+  "TeleportBoundItems": false,
+  "ClanSize": 20,
+  "CastleRelocationCooldown": 0.0,
+  "ServantConvertRateModifier": 0.25,
+  "VBloodUnitSettings": [],
+  "UnlockedAchievements": [],
+  "UnlockedResearchs": [],
+  "GameTimeModifiers": {},
+  "VampireStatModifiers": {},
+  "EquipmentStatModifiers_Global": {},
+  "CastleStatModifiers_Global": {
+    "SafetyBoxLimit": 20,
+    "TombLimit": 20,
+    "VerminNestLimit": 20,
+    "PrisonCellLimit": 50,
+    "HeartLimits": {
+      "Level1": {
+        "HeightLimit": 6
+      },
+      "Level2": {
+        "ServantLimit": 8,
+        "HeightLimit": 6
+      },
+      "Level3": {
+        "ServantLimit": 12,
+        "HeightLimit": 6
+      },
+      "Level4": {
+        "ServantLimit": 16,
+        "HeightLimit": 6
+      },
+      "Level5": {
+        "ServantLimit": 20,
+        "HeightLimit": 6
+      }
+    },
+    "CastleLimit": 5,
+    "NetherGateLimit": 4,
+    "ThroneOfDarknessLimit": 4
+  },
+  "PlayerInteractionSettings": {
+    "VSPlayerWeekdayTime": {},
+    "VSPlayerWeekendTime": {},
+    "VSCastleWeekdayTime": {},
+    "VSCastleWeekendTime": {}
+  },
+  "TraderModifiers": {},
+  "WarEventGameSettings": {
+    "WeekdayTime": {},
+    "WeekendTime": {},
+    "ScalingPlayers1": {},
+    "ScalingPlayers2": {},
+    "ScalingPlayers3": {},
+    "ScalingPlayers4": {}
+  }
+}
